@@ -1,6 +1,22 @@
-tt1 changes
+owftnewft
+wft
+wft
+wft
+wf
+tw
+ft
+wft
+wft
 Project:
-Distributed web server, in future platform for computing and executing tasks
+noarsntt
+arst
+arst
+ar
+td
+arsd
+sr
+da
+rsd
 
 Spec:
 1. should be protocol agnostic
