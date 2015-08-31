@@ -1,3 +1,10 @@
+arsotna
+rstar
+st
+rast
+arst
+rast
+rast
 oarsnt
 arstn
 arst
